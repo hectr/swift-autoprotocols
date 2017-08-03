@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Autoprotocols"
-  s.version      = "0.1"
+  s.version      = "0.1.1"
   s.summary      = "Sourcery marker protocols"
   s.description  = <<-DESC
     Public defintion of protocols used by Sourcery templates as opt in markers to code generation.
